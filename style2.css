@@ -1,0 +1,13 @@
+p.odd {
+background-color: rgb(207, 136, 136);
+font-family: Verdana, Dejavu Sans, "sans-serif";
+}
+#two {
+color: blue;
+font-size: 36px;
+}
+#four {
+    background-color: rgb(171, 199, 128);
+    font-size: 24px;
+    font-weight: bold;
+}
